@@ -1,2 +1,0 @@
-# foam-noodle
-Begin app
